@@ -1,0 +1,4 @@
+*.xlam
+*.xlsm
+~$*
+.DS_Store

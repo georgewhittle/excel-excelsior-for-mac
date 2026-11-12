@@ -1,0 +1,2 @@
+# VBA editor importer on Mac is safest with CRLF
+build/import.bas -text
